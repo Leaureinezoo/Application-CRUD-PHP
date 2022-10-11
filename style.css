@@ -1,0 +1,55 @@
+#titre
+{
+    color : red;
+    text-align: center;
+}
+
+#formMedicament
+{
+    display: flex;
+    flex-direction: column;
+    width: 215px;
+}
+
+#ListeMed
+{
+    width: 412px;
+}
+
+#Button1
+{
+    width: 412px;
+}
+
+#Button2
+{
+    width: 412px;
+}
+
+#Button3
+{
+    width: 412px;
+}
+
+#Button4
+{
+    width: 412px;
+}
+
+#Button5
+{
+    width: 412px;
+}
+
+#Button6
+{
+    width: 412px;
+}
+
+#divAll
+{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-25%);
+}
